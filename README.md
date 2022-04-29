@@ -7,7 +7,8 @@ country, year, sex, age group, count of suicides, population, suicide rate, coun
                                               
                                               
                                               Suicide Rates Facotors
-In general, the suicide rate is related to several factors. 
+                            In general, the suicide rate is related to several factors. 
+                            
 1:- First, national GDP per person. We have seen that the suicide rate in many countries is highly correlated with the gdp of the whole country, which shows that the degree of national wealth has a certain degree of reduction in suicide rate.
 
 2:- Second, the age. According to the suicide rate of each level of age, the rate of elderly is higher, so young people should care more about the elderly. Moreover, the country welfare of the elderly may also impact the rate.
