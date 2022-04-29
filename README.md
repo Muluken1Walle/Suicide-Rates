@@ -4,7 +4,9 @@ The suicide rate in lots of countries have been quite high for many years, inclu
 
                                                    File
 country, year, sex, age group, count of suicides, population, suicide rate, country-year composite key, HDI for year, gdpforyear, gdppercapita, generation (based on age grouping average).
-                                                Suicide Rates Facotors
+                                              
+                                              
+                                              Suicide Rates Facotors
 In general, the suicide rate is related to several factors. 
 1:- First, national GDP per person. We have seen that the suicide rate in many countries is highly correlated with the gdp of the whole country, which shows that the degree of national wealth has a certain degree of reduction in suicide rate.
 
